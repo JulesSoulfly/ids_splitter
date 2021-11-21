@@ -1,0 +1,6 @@
+ids_file_name = ids.txt
+ids_file_name_for_save = ids.txt
+finish_file_name = start
+script_folder_name = autorus, emex, exist
+thread_count = 5
+ids_limit_per_thread = 10
